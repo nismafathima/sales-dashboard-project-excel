@@ -5,7 +5,8 @@
 
 An **Excel-based project** that provides interactive dashboards and insights into **sales performance, revenue trends, and product analysis**. The goal is to help businesses track KPIs, identify growth opportunities, and make data-driven decisions.
 
----
+---![Uploading Screenshot 2026-01-20 231131.png…]()
+
 
 ## ✨ Features
 - 📈 **Sales Performance Tracking** – Monitor total sales, revenue, and profit margins.  
